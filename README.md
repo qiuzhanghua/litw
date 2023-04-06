@@ -1,6 +1,6 @@
 # Lit with UnoCSS
 
-This is a starter template for [Lit](https://lit.dev/) with [UnoCSS](https://unocss.org/).
+This is a starter template for [Lit](https://lit.dev/) with [UnoCSS](https://unocss.dev/).
 
 ## Getting started
 
