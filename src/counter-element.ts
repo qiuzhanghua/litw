@@ -28,6 +28,7 @@ export class CounterElement extends LitElement {
         <button @click=${this._onClick} part="button" class="text-red-500">
           count is ${this.count}
         </button>
+        <div class="i-ic-baseline-add-circle text-3xl bg-green-500" />
       </div>
       <p class="cool-blue">${this.docsHint}</p>
     `

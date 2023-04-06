@@ -21,3 +21,5 @@ ref:
 https://github.com/unocss/unocss/tree/main/examples/vite-lit
 
 https://www.thisdot.co/blog/getting-started-with-litelement-and-tailwind
+
+https://icones.js.org/
