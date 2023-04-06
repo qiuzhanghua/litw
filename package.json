@@ -1,0 +1,33 @@
+{
+  "name": "litw",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "dist/my-element.es.js",
+  "exports": {
+    ".": "./dist/my-element.es.js"
+  },
+  "types": "types/my-element.d.ts",
+  "files": [
+    "dist",
+    "types"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "lit": "^2.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.3",
+    "vite": "^4.2.1",
+    "@unocss/core": "^0.50.6",
+    "@unocss/preset-uno": "^0.50.6",
+    "@unocss/preset-attributify": "^0.50.6",
+    "@unocss/preset-icons": "^0.50.6",
+    "unocss": "^0.50.6",
+    "vite-plugin-inspect": "^0.7.18",
+    "@iconify-json/logos": "^1.1.24"
+  }
+}
