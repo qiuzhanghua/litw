@@ -21,14 +21,14 @@
   },
   "devDependencies": {
     "@iconify-json/ic": "^1.1.13",
-    "@iconify-json/logos": "^1.1.24",
-    "@unocss/core": "^0.50.6",
-    "@unocss/preset-attributify": "^0.50.6",
-    "@unocss/preset-icons": "^0.50.6",
-    "@unocss/preset-uno": "^0.50.6",
-    "typescript": "^5.0.3",
-    "unocss": "^0.50.6",
-    "vite": "^4.2.1",
-    "vite-plugin-inspect": "^0.7.19"
+    "@iconify-json/logos": "^1.1.25",
+    "@unocss/core": "^0.51.5",
+    "@unocss/preset-attributify": "^0.51.5",
+    "@unocss/preset-icons": "^0.51.5",
+    "@unocss/preset-uno": "^0.51.5",
+    "typescript": "^5.0.4",
+    "unocss": "^0.51.5",
+    "vite": "^4.3.1",
+    "vite-plugin-inspect": "^0.7.23"
   }
 }
